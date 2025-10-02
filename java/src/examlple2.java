@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class examlple2 {
+    public examlple2() {
+    }
+
     public static void main(String[] args) {
         int total = 20;
         int pencil = 1;
