@@ -1,7 +1,7 @@
-import java.util.Scanner;
 
-public class examlple2 {
-    public examlple2() {
+import java.util.Scanner;
+public class example2 {
+    public example2() {
     }
 
     public static void main(String[] args) {
