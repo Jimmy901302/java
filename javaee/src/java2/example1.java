@@ -38,5 +38,3 @@ public class example1 {
 
     }
 }
-//package com.example;
-//import java.util.Scanner;   
